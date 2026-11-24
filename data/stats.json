@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T12:28:21.765Z",
+  "updatedAt": "2026-11-24T12:28:36.764Z",
   "totals": {
-    "messages": 990,
-    "incoming": 839,
+    "messages": 991,
+    "incoming": 840,
     "outgoing": 151,
-    "commands": 96
+    "commands": 97
   },
   "days": {
     "2026-11-24": {
-      "messages": 990,
-      "incoming": 839,
+      "messages": 991,
+      "incoming": 840,
       "outgoing": 151,
-      "commands": 96
+      "commands": 97
     }
   },
   "commands": {
@@ -36,7 +36,7 @@
     "pin2": 1,
     "pin": 1,
     "ig": 4,
-    "jadibot": 12,
+    "jadibot": 13,
     "antisticker": 1,
     "wm": 1,
     "pingg": 1,
@@ -51,7 +51,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T12:03:35.322Z",
-    "lastSeenAt": "2026-11-24T12:28:21.552Z"
+    "lastSeenAt": "2026-11-24T12:28:36.553Z"
   },
   "bots": [
     {
@@ -68,10 +68,10 @@
     }
   ],
   "pairing": {
-    "status": "login berhasil",
-    "session": "session/bot1",
-    "number": "6285188******",
-    "codePreview": null,
-    "createdAt": "2026-11-24T07:51:15.216Z"
+    "status": "kode dibuat — cek chat owner",
+    "session": "session/bot2",
+    "number": "6287895******",
+    "codePreview": "MA••••••",
+    "createdAt": "2026-11-24T12:28:34.070Z"
   }
 }
