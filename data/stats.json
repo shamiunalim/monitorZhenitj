@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T06:52:30.211Z",
+  "updatedAt": "2026-11-24T06:52:45.299Z",
   "totals": {
-    "messages": 721,
-    "incoming": 614,
-    "outgoing": 107,
+    "messages": 731,
+    "incoming": 615,
+    "outgoing": 116,
     "commands": 61
   },
   "days": {
     "2026-11-24": {
-      "messages": 721,
-      "incoming": 614,
-      "outgoing": 107,
+      "messages": 731,
+      "incoming": 615,
+      "outgoing": 116,
       "commands": 61
     }
   },
@@ -41,7 +41,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T06:51:59.043Z",
-    "lastSeenAt": "2026-11-24T06:52:29.999Z"
+    "lastSeenAt": "2026-11-24T06:52:45.103Z"
   },
   "bots": [
     {
@@ -52,16 +52,16 @@
     },
     {
       "session": "session/bot2",
-      "status": "menunggu login",
-      "number": "Belum login",
-      "username": "Belum diketahui"
+      "status": "online",
+      "number": "6281949******",
+      "username": "hihuu"
     }
   ],
   "pairing": {
-    "status": "kode dibuat — cek chat owner",
+    "status": "login berhasil",
     "session": "session/bot2",
     "number": "6281949******",
-    "codePreview": "MA••••••",
+    "codePreview": null,
     "createdAt": "2026-11-24T06:52:19.159Z"
   }
 }
