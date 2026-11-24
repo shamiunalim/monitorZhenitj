@@ -1,23 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T01:41:56.687Z",
+  "updatedAt": "2026-11-24T01:42:12.682Z",
   "totals": {
-    "messages": 0,
+    "messages": 1,
     "incoming": 0,
-    "outgoing": 0,
+    "outgoing": 1,
     "commands": 0
   },
-  "days": {},
+  "days": {
+    "2026-11-24": {
+      "messages": 1,
+      "incoming": 0,
+      "outgoing": 1,
+      "commands": 0
+    }
+  },
   "commands": {},
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T01:41:56.521Z",
-    "lastSeenAt": "2026-11-24T01:41:56.522Z"
+    "lastSeenAt": "2026-11-24T01:42:12.350Z"
   },
-  "bots": [],
+  "bots": [
+    {
+      "session": "session/bot1",
+      "status": "online",
+      "number": "6282156******",
+      "username": "hihuu"
+    },
+    {
+      "session": "session/bot2",
+      "status": "online",
+      "number": "6285783******",
+      "username": "𝐫𝐲 𝐬𝐮𝐤𝐚 𝐝𝐮𝐢𝐭"
+    },
+    {
+      "session": "session/bot3",
+      "status": "online",
+      "number": "6287895******",
+      "username": "payy"
+    },
+    {
+      "session": "session/bot4",
+      "status": "menunggu login",
+      "number": "Belum login",
+      "username": "Belum diketahui"
+    }
+  ],
   "pairing": {
-    "status": "belum ada permintaan",
-    "session": null,
+    "status": "login berhasil",
+    "session": "session/bot3",
     "number": null,
     "codePreview": null,
     "createdAt": null
