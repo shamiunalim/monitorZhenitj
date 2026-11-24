@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T02:43:48.291Z",
+  "updatedAt": "2026-11-24T02:44:13.196Z",
   "totals": {
     "messages": 675,
     "incoming": 571,
@@ -35,35 +35,10 @@
   },
   "bot": {
     "status": "online",
-    "startedAt": "2026-11-24T01:41:56.521Z",
-    "lastSeenAt": "2026-11-24T02:43:48.012Z"
+    "startedAt": "2026-11-24T02:44:12.965Z",
+    "lastSeenAt": "2026-11-24T02:44:12.966Z"
   },
-  "bots": [
-    {
-      "session": "session/bot1",
-      "status": "online",
-      "number": "6282156******",
-      "username": "hihuu"
-    },
-    {
-      "session": "session/bot2",
-      "status": "online",
-      "number": "6285783******",
-      "username": "𝐫𝐲 𝐬𝐮𝐤𝐚 𝐝𝐮𝐢𝐭"
-    },
-    {
-      "session": "session/bot3",
-      "status": "online",
-      "number": "6287895******",
-      "username": "payy"
-    },
-    {
-      "session": "session/bot4",
-      "status": "menunggu login",
-      "number": "Belum login",
-      "username": "Belum diketahui"
-    }
-  ],
+  "bots": [],
   "pairing": {
     "status": "login berhasil",
     "session": "session/bot3",
