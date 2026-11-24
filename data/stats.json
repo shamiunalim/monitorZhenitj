@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T12:44:56.571Z",
+  "updatedAt": "2026-11-24T12:45:11.995Z",
   "totals": {
-    "messages": 1186,
-    "incoming": 931,
-    "outgoing": 255,
-    "commands": 123
+    "messages": 1194,
+    "incoming": 936,
+    "outgoing": 258,
+    "commands": 128
   },
   "days": {
     "2026-11-24": {
-      "messages": 1186,
-      "incoming": 931,
-      "outgoing": 255,
-      "commands": 123
+      "messages": 1194,
+      "incoming": 936,
+      "outgoing": 258,
+      "commands": 128
     }
   },
   "commands": {
@@ -31,7 +31,7 @@
     "jpm": 5,
     "kaga": 2,
     "afk": 3,
-    "brat": 15,
+    "brat": 18,
     "cs": 1,
     "pin2": 1,
     "pin": 1,
@@ -49,12 +49,13 @@
     "ular-tangga": 1,
     "listbot": 2,
     "game": 3,
-    "slot": 1
+    "slot": 1,
+    "listgc": 2
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T12:03:35.322Z",
-    "lastSeenAt": "2026-11-24T12:44:56.311Z"
+    "lastSeenAt": "2026-11-24T12:45:11.785Z"
   },
   "bots": [
     {
