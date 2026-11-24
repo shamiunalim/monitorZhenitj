@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": null,
+  "totals": {
+    "messages": 0,
+    "incoming": 0,
+    "outgoing": 0,
+    "commands": 0
+  },
+  "days": {},
+  "commands": {},
+  "bot": {
+    "status": "waiting",
+    "startedAt": null,
+    "lastSeenAt": null
+  },
+  "bots": [],
+  "pairing": {
+    "status": "belum ada permintaan",
+    "session": null,
+    "number": null,
+    "codePreview": null,
+    "createdAt": null
+  }
+}
