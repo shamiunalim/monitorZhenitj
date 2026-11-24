@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T12:03:35.525Z",
+  "updatedAt": "2026-11-24T12:03:51.652Z",
   "totals": {
-    "messages": 961,
-    "incoming": 810,
+    "messages": 963,
+    "incoming": 812,
     "outgoing": 151,
-    "commands": 83
+    "commands": 85
   },
   "days": {
     "2026-11-24": {
-      "messages": 961,
-      "incoming": 810,
+      "messages": 963,
+      "incoming": 812,
       "outgoing": 151,
-      "commands": 83
+      "commands": 85
     }
   },
   "commands": {
-    "s": 4,
+    "s": 5,
     "menu": 12,
     "linkgc": 2,
     "pkh": 2,
@@ -36,7 +36,7 @@
     "pin2": 1,
     "pin": 1,
     "ig": 4,
-    "jadibot": 9,
+    "jadibot": 10,
     "antisticker": 1,
     "wm": 1,
     "pingg": 1,
@@ -48,9 +48,22 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T12:03:35.322Z",
-    "lastSeenAt": "2026-11-24T12:03:35.323Z"
+    "lastSeenAt": "2026-11-24T12:03:51.304Z"
   },
-  "bots": [],
+  "bots": [
+    {
+      "session": "session/bot1",
+      "status": "online",
+      "number": "6282156******",
+      "username": "hihuu"
+    },
+    {
+      "session": "session/bot2",
+      "status": "online",
+      "number": "6285188******",
+      "username": "B"
+    }
+  ],
   "pairing": {
     "status": "login berhasil",
     "session": "session/bot1",
