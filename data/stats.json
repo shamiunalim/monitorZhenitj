@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T13:52:15.280Z",
+  "updatedAt": "2026-11-24T13:52:30.338Z",
   "totals": {
     "messages": 1723,
     "incoming": 1268,
@@ -56,7 +56,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T12:03:35.322Z",
-    "lastSeenAt": "2026-11-24T13:52:15.045Z"
+    "lastSeenAt": "2026-11-24T13:52:30.045Z"
   },
   "bots": [
     {
@@ -67,8 +67,8 @@
     },
     {
       "session": "session/bot2",
-      "status": "online",
-      "number": "6287895******",
+      "status": "menunggu login",
+      "number": "Belum login",
       "username": "Belum diketahui"
     }
   ],
