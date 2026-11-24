@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T07:13:01.216Z",
+  "updatedAt": "2026-11-24T07:13:16.208Z",
   "totals": {
-    "messages": 778,
-    "incoming": 658,
+    "messages": 780,
+    "incoming": 660,
     "outgoing": 120,
-    "commands": 62
+    "commands": 63
   },
   "days": {
     "2026-11-24": {
-      "messages": 778,
-      "incoming": 658,
+      "messages": 780,
+      "incoming": 660,
       "outgoing": 120,
-      "commands": 62
+      "commands": 63
     }
   },
   "commands": {
@@ -37,12 +37,13 @@
     "pin": 1,
     "ig": 1,
     "jadibot": 2,
-    "antisticker": 1
+    "antisticker": 1,
+    "wm": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T06:51:59.043Z",
-    "lastSeenAt": "2026-11-24T07:13:01.009Z"
+    "lastSeenAt": "2026-11-24T07:13:16.010Z"
   },
   "bots": [
     {
