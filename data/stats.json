@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T12:32:36.760Z",
+  "updatedAt": "2026-11-24T12:32:51.786Z",
   "totals": {
-    "messages": 994,
-    "incoming": 843,
+    "messages": 995,
+    "incoming": 844,
     "outgoing": 151,
-    "commands": 98
+    "commands": 99
   },
   "days": {
     "2026-11-24": {
-      "messages": 994,
-      "incoming": 843,
+      "messages": 995,
+      "incoming": 844,
       "outgoing": 151,
-      "commands": 98
+      "commands": 99
     }
   },
   "commands": {
@@ -36,7 +36,7 @@
     "pin2": 1,
     "pin": 1,
     "ig": 4,
-    "jadibot": 13,
+    "jadibot": 14,
     "antisticker": 1,
     "wm": 1,
     "pingg": 1,
@@ -51,7 +51,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T12:03:35.322Z",
-    "lastSeenAt": "2026-11-24T12:32:36.562Z"
+    "lastSeenAt": "2026-11-24T12:32:51.563Z"
   },
   "bots": [
     {
@@ -72,6 +72,6 @@
     "session": "session/bot2",
     "number": "6287895******",
     "codePreview": "MA••••••",
-    "createdAt": "2026-11-24T12:28:34.070Z"
+    "createdAt": "2026-11-24T12:32:49.441Z"
   }
 }
