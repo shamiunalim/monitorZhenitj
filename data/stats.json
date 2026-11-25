@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T09:45:18.768Z",
+  "updatedAt": "2026-11-25T09:45:33.714Z",
   "totals": {
     "messages": 2116,
     "incoming": 1654,
     "outgoing": 462,
-    "commands": 231
+    "commands": 232
   },
   "days": {
     "2026-11-24": {
@@ -18,7 +18,7 @@
       "messages": 322,
       "incoming": 315,
       "outgoing": 7,
-      "commands": 34
+      "commands": 35
     }
   },
   "commands": {
@@ -64,12 +64,13 @@
     "mdf": 3,
     "tt": 1,
     "addfile": 4,
-    "soundsticker": 3
+    "soundsticker": 3,
+    "ssdebug": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T12:03:35.322Z",
-    "lastSeenAt": "2026-11-25T09:45:18.597Z"
+    "lastSeenAt": "2026-11-25T09:45:33.492Z"
   },
   "bots": [
     {
