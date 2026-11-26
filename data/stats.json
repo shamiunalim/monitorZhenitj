@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T14:38:48.211Z",
+  "updatedAt": "2026-11-26T14:38:59.675Z",
   "totals": {
-    "messages": 4235,
-    "incoming": 3685,
-    "outgoing": 550,
-    "commands": 276
+    "messages": 2600,
+    "incoming": 2135,
+    "outgoing": 465,
+    "commands": 331
   },
   "days": {
     "2026-11-24": {
@@ -21,15 +21,15 @@
       "commands": 53
     },
     "2026-11-26": {
-      "messages": 1963,
-      "incoming": 1878,
-      "outgoing": 85,
-      "commands": 26
+      "messages": 328,
+      "incoming": 328,
+      "outgoing": 0,
+      "commands": 81
     }
   },
   "commands": {
-    "s": 23,
-    "menu": 20,
+    "s": 22,
+    "menu": 26,
     "linkgc": 3,
     "pkh": 3,
     "close": 3,
@@ -43,7 +43,7 @@
     "jpm": 5,
     "kaga": 2,
     "afk": 27,
-    "brat": 62,
+    "brat": 63,
     "cs": 1,
     "pin2": 1,
     "pin": 1,
@@ -68,7 +68,7 @@
     "blacklist": 2,
     "fb": 14,
     "mdf": 3,
-    "tt": 6,
+    "tt": 7,
     "addfile": 6,
     "soundsticker": 3,
     "ssdebug": 4,
@@ -76,12 +76,21 @@
     "volumeup": 2,
     "ping": 1,
     "swgc": 1,
-    "backup": 2
+    "backup": 2,
+    "bratwar": 1,
+    "cekhama": 1,
+    "sulap": 2,
+    "ewe": 1,
+    "jodoh": 39,
+    "tebak": 1,
+    "tebaktebakan": 1,
+    "allmenu": 1,
+    "caripacar": 1
   },
   "bot": {
     "status": "online",
-    "startedAt": "2026-11-26T10:33:46.598Z",
-    "lastSeenAt": "2026-11-26T14:37:40.050Z"
+    "startedAt": "2026-11-24T12:03:35.322Z",
+    "lastSeenAt": "2026-11-26T14:38:59.440Z"
   },
   "bots": [
     {
