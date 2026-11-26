@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T23:55:07.186Z",
+  "updatedAt": "2026-11-26T23:55:22.591Z",
   "totals": {
     "messages": 2819,
     "incoming": 2349,
@@ -99,23 +99,10 @@
   },
   "bot": {
     "status": "online",
-    "startedAt": "2026-11-24T12:03:35.322Z",
-    "lastSeenAt": "2026-11-26T23:55:06.999Z"
+    "startedAt": "2026-11-26T23:55:22.391Z",
+    "lastSeenAt": "2026-11-26T23:55:22.391Z"
   },
-  "bots": [
-    {
-      "session": "session/bot1",
-      "status": "online",
-      "number": "6282156******",
-      "username": "hihuu"
-    },
-    {
-      "session": "session/bot2",
-      "status": "menunggu login",
-      "number": "Belum login",
-      "username": "Belum diketahui"
-    }
-  ],
+  "bots": [],
   "pairing": {
     "status": "login berhasil",
     "session": "session/bot1",
