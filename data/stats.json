@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T13:38:57.831Z",
+  "updatedAt": "2026-11-26T13:39:12.792Z",
   "totals": {
-    "messages": 2476,
-    "incoming": 2011,
+    "messages": 2477,
+    "incoming": 2012,
     "outgoing": 465,
-    "commands": 283
+    "commands": 284
   },
   "days": {
     "2026-11-24": {
@@ -21,10 +21,10 @@
       "commands": 53
     },
     "2026-11-26": {
-      "messages": 204,
-      "incoming": 204,
+      "messages": 205,
+      "incoming": 205,
       "outgoing": 0,
-      "commands": 33
+      "commands": 34
     }
   },
   "commands": {
@@ -79,12 +79,13 @@
     "backup": 2,
     "bratwar": 1,
     "cekhama": 1,
-    "sulap": 2
+    "sulap": 2,
+    "ewe": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T12:03:35.322Z",
-    "lastSeenAt": "2026-11-26T13:38:57.582Z"
+    "lastSeenAt": "2026-11-26T13:39:12.581Z"
   },
   "bots": [
     {
