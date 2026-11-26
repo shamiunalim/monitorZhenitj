@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T14:37:27.533Z",
+  "updatedAt": "2026-11-26T14:37:42.505Z",
   "totals": {
-    "messages": 2597,
-    "incoming": 2132,
+    "messages": 2598,
+    "incoming": 2133,
     "outgoing": 465,
-    "commands": 329
+    "commands": 330
   },
   "days": {
     "2026-11-24": {
@@ -21,10 +21,10 @@
       "commands": 53
     },
     "2026-11-26": {
-      "messages": 325,
-      "incoming": 325,
+      "messages": 326,
+      "incoming": 326,
       "outgoing": 0,
-      "commands": 79
+      "commands": 80
     }
   },
   "commands": {
@@ -83,12 +83,13 @@
     "ewe": 1,
     "jodoh": 39,
     "tebak": 1,
-    "tebaktebakan": 1
+    "tebaktebakan": 1,
+    "allmenu": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T12:03:35.322Z",
-    "lastSeenAt": "2026-11-26T14:37:27.286Z"
+    "lastSeenAt": "2026-11-26T14:37:42.286Z"
   },
   "bots": [
     {
