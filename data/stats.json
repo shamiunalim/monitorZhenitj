@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T13:28:42.740Z",
+  "updatedAt": "2026-11-26T13:28:48.199Z",
   "totals": {
-    "messages": 2468,
-    "incoming": 2003,
-    "outgoing": 465,
-    "commands": 278
+    "messages": 3807,
+    "incoming": 3290,
+    "outgoing": 517,
+    "commands": 276
   },
   "days": {
     "2026-11-24": {
@@ -21,14 +21,14 @@
       "commands": 53
     },
     "2026-11-26": {
-      "messages": 196,
-      "incoming": 196,
-      "outgoing": 0,
-      "commands": 28
+      "messages": 1535,
+      "incoming": 1483,
+      "outgoing": 52,
+      "commands": 26
     }
   },
   "commands": {
-    "s": 22,
+    "s": 23,
     "menu": 20,
     "linkgc": 3,
     "pkh": 3,
@@ -43,7 +43,7 @@
     "jpm": 5,
     "kaga": 2,
     "afk": 27,
-    "brat": 63,
+    "brat": 62,
     "cs": 1,
     "pin2": 1,
     "pin": 1,
@@ -68,7 +68,7 @@
     "blacklist": 2,
     "fb": 14,
     "mdf": 3,
-    "tt": 7,
+    "tt": 6,
     "addfile": 6,
     "soundsticker": 3,
     "ssdebug": 4,
@@ -76,13 +76,12 @@
     "volumeup": 2,
     "ping": 1,
     "swgc": 1,
-    "backup": 2,
-    "bratwar": 1
+    "backup": 2
   },
   "bot": {
     "status": "online",
-    "startedAt": "2026-11-24T12:03:35.322Z",
-    "lastSeenAt": "2026-11-26T13:28:42.503Z"
+    "startedAt": "2026-11-26T10:33:46.598Z",
+    "lastSeenAt": "2026-11-26T13:28:05.130Z"
   },
   "bots": [
     {
