@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T15:53:48.342Z",
+  "updatedAt": "2026-11-26T15:54:00.566Z",
   "totals": {
-    "messages": 4431,
-    "incoming": 3876,
-    "outgoing": 555,
-    "commands": 276
+    "messages": 2620,
+    "incoming": 2155,
+    "outgoing": 465,
+    "commands": 341
   },
   "days": {
     "2026-11-24": {
@@ -21,15 +21,15 @@
       "commands": 53
     },
     "2026-11-26": {
-      "messages": 2159,
-      "incoming": 2069,
-      "outgoing": 90,
-      "commands": 26
+      "messages": 348,
+      "incoming": 348,
+      "outgoing": 0,
+      "commands": 91
     }
   },
   "commands": {
-    "s": 23,
-    "menu": 20,
+    "s": 22,
+    "menu": 26,
     "linkgc": 3,
     "pkh": 3,
     "close": 3,
@@ -43,7 +43,7 @@
     "jpm": 5,
     "kaga": 2,
     "afk": 27,
-    "brat": 62,
+    "brat": 63,
     "cs": 1,
     "pin2": 1,
     "pin": 1,
@@ -53,7 +53,7 @@
     "wm": 2,
     "pingg": 1,
     "ping2": 2,
-    "hill": 3,
+    "hill": 4,
     "creategc": 1,
     "promote": 1,
     "claim": 1,
@@ -68,7 +68,7 @@
     "blacklist": 2,
     "fb": 14,
     "mdf": 3,
-    "tt": 6,
+    "tt": 7,
     "addfile": 6,
     "soundsticker": 3,
     "ssdebug": 4,
@@ -76,12 +76,25 @@
     "volumeup": 2,
     "ping": 1,
     "swgc": 1,
-    "backup": 2
+    "backup": 2,
+    "bratwar": 1,
+    "cekhama": 1,
+    "sulap": 2,
+    "ewe": 1,
+    "jodoh": 41,
+    "tebak": 1,
+    "tebaktebakan": 1,
+    "allmenu": 1,
+    "caripacar": 2,
+    "infopacar": 1,
+    "gacha": 2,
+    "lock": 2,
+    "blockblast": 1
   },
   "bot": {
     "status": "online",
-    "startedAt": "2026-11-26T10:33:46.598Z",
-    "lastSeenAt": "2026-11-26T15:51:33.031Z"
+    "startedAt": "2026-11-24T12:03:35.322Z",
+    "lastSeenAt": "2026-11-26T15:54:00.359Z"
   },
   "bots": [
     {
