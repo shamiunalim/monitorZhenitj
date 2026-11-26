@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T23:35:25.559Z",
+  "updatedAt": "2026-11-26T23:35:52.734Z",
   "totals": {
-    "messages": 2795,
-    "incoming": 2325,
+    "messages": 2797,
+    "incoming": 2327,
     "outgoing": 470,
-    "commands": 342
+    "commands": 343
   },
   "days": {
     "2026-11-24": {
@@ -27,14 +27,14 @@
       "commands": 91
     },
     "2026-11-27": {
-      "messages": 135,
-      "incoming": 130,
+      "messages": 137,
+      "incoming": 132,
       "outgoing": 5,
-      "commands": 1
+      "commands": 2
     }
   },
   "commands": {
-    "s": 22,
+    "s": 23,
     "menu": 26,
     "linkgc": 3,
     "pkh": 3,
@@ -100,7 +100,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-24T12:03:35.322Z",
-    "lastSeenAt": "2026-11-26T23:35:25.368Z"
+    "lastSeenAt": "2026-11-26T23:35:52.569Z"
   },
   "bots": [
     {
