@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T12:40:18.551Z",
+  "updatedAt": "2026-11-27T12:40:34.596Z",
   "totals": {
-    "messages": 3335,
-    "incoming": 2848,
+    "messages": 3336,
+    "incoming": 2849,
     "outgoing": 487,
     "commands": 388
   },
@@ -27,8 +27,8 @@
       "commands": 91
     },
     "2026-11-27": {
-      "messages": 675,
-      "incoming": 653,
+      "messages": 676,
+      "incoming": 654,
       "outgoing": 22,
       "commands": 47
     }
@@ -102,12 +102,25 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-27T12:40:18.337Z",
-    "lastSeenAt": "2026-11-27T12:40:18.337Z"
+    "lastSeenAt": "2026-11-27T12:40:34.395Z"
   },
-  "bots": [],
+  "bots": [
+    {
+      "session": "session/bot1",
+      "status": "online",
+      "number": "6282156******",
+      "username": "hihuu"
+    },
+    {
+      "session": "session/bot2",
+      "status": "online",
+      "number": "6283172******",
+      "username": "𝐬𝐡𝐞𝐥"
+    }
+  ],
   "pairing": {
     "status": "login berhasil",
-    "session": "session/bot2",
+    "session": "session/bot1",
     "number": "6283172******",
     "codePreview": null,
     "createdAt": "2026-11-27T03:31:06.356Z"
