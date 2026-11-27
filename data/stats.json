@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T13:03:50.227Z",
+  "updatedAt": "2026-11-27T13:04:05.215Z",
   "totals": {
-    "messages": 3343,
-    "incoming": 2854,
+    "messages": 3345,
+    "incoming": 2856,
     "outgoing": 489,
-    "commands": 388
+    "commands": 389
   },
   "days": {
     "2026-11-24": {
@@ -27,10 +27,10 @@
       "commands": 91
     },
     "2026-11-27": {
-      "messages": 683,
-      "incoming": 659,
+      "messages": 685,
+      "incoming": 661,
       "outgoing": 24,
-      "commands": 47
+      "commands": 48
     }
   },
   "commands": {
@@ -90,7 +90,7 @@
     "jodoh": 41,
     "tebak": 1,
     "tebaktebakan": 1,
-    "allmenu": 4,
+    "allmenu": 5,
     "caripacar": 2,
     "infopacar": 1,
     "gacha": 2,
@@ -102,7 +102,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-27T12:40:18.337Z",
-    "lastSeenAt": "2026-11-27T13:03:50.004Z"
+    "lastSeenAt": "2026-11-27T13:04:05.005Z"
   },
   "bots": [
     {
