@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T10:26:55.852Z",
+  "updatedAt": "2026-11-27T10:27:10.890Z",
   "totals": {
-    "messages": 3167,
-    "incoming": 2683,
+    "messages": 3168,
+    "incoming": 2684,
     "outgoing": 484,
-    "commands": 385
+    "commands": 386
   },
   "days": {
     "2026-11-24": {
@@ -27,10 +27,10 @@
       "commands": 91
     },
     "2026-11-27": {
-      "messages": 507,
-      "incoming": 488,
+      "messages": 508,
+      "incoming": 489,
       "outgoing": 19,
-      "commands": 44
+      "commands": 45
     }
   },
   "commands": {
@@ -96,12 +96,13 @@
     "gacha": 2,
     "lock": 2,
     "blockblast": 2,
-    "sc": 1
+    "sc": 1,
+    "req": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-11-26T23:59:19.527Z",
-    "lastSeenAt": "2026-11-27T10:26:55.600Z"
+    "lastSeenAt": "2026-11-27T10:27:10.601Z"
   },
   "bots": [
     {
