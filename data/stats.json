@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-28T10:47:42.465Z",
+  "updatedAt": "2026-11-28T10:47:57.469Z",
   "totals": {
-    "messages": 3913,
-    "incoming": 3422,
+    "messages": 3914,
+    "incoming": 3423,
     "outgoing": 491,
-    "commands": 451
+    "commands": 452
   },
   "days": {
     "2026-11-24": {
@@ -33,10 +33,10 @@
       "commands": 53
     },
     "2026-11-28": {
-      "messages": 460,
-      "incoming": 458,
+      "messages": 461,
+      "incoming": 459,
       "outgoing": 2,
-      "commands": 57
+      "commands": 58
     }
   },
   "commands": {
@@ -110,7 +110,7 @@
     "saldo": 2,
     "sikaya": 1,
     "tophutang": 1,
-    "topchat": 2,
+    "topchat": 3,
     "topglobalchat": 2,
     "sticker": 2,
     "hp": 1,
@@ -119,7 +119,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-27T12:40:18.337Z",
-    "lastSeenAt": "2026-11-28T10:47:42.287Z"
+    "lastSeenAt": "2026-11-28T10:47:57.287Z"
   },
   "bots": [
     {
