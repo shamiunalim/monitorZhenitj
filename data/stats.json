@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-28T09:38:21.778Z",
+  "updatedAt": "2026-11-28T09:38:36.757Z",
   "totals": {
-    "messages": 3726,
-    "incoming": 3236,
+    "messages": 3728,
+    "incoming": 3238,
     "outgoing": 490,
-    "commands": 424
+    "commands": 425
   },
   "days": {
     "2026-11-24": {
@@ -33,10 +33,10 @@
       "commands": 53
     },
     "2026-11-28": {
-      "messages": 273,
-      "incoming": 272,
+      "messages": 275,
+      "incoming": 274,
       "outgoing": 1,
-      "commands": 30
+      "commands": 31
     }
   },
   "commands": {
@@ -87,7 +87,7 @@
     "getmsg": 1,
     "volumeup": 2,
     "ping": 1,
-    "swgc": 1,
+    "swgc": 2,
     "backup": 2,
     "bratwar": 1,
     "cekhama": 1,
@@ -110,7 +110,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-27T12:40:18.337Z",
-    "lastSeenAt": "2026-11-28T09:38:21.570Z"
+    "lastSeenAt": "2026-11-28T09:38:36.571Z"
   },
   "bots": [
     {
