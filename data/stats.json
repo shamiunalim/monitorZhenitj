@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-28T12:31:28.494Z",
+  "updatedAt": "2026-11-28T12:31:43.455Z",
   "totals": {
     "messages": 4145,
     "incoming": 3654,
@@ -120,7 +120,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-27T12:40:18.337Z",
-    "lastSeenAt": "2026-11-28T12:31:28.263Z"
+    "lastSeenAt": "2026-11-28T12:31:43.264Z"
   },
   "bots": [
     {
